@@ -1,0 +1,406 @@
+{
+  "updated": "2026-10-18",
+  "brands": {
+    "Maruti Suzuki": {
+      "models": [
+        "Alto K10",
+        "S-Presso",
+        "Celerio",
+        "WagonR",
+        "Swift",
+        "Dzire",
+        "Brezza",
+        "Ertiga",
+        "Eeco",
+        "Victoris",
+        "Baleno",
+        "Fronx",
+        "Grand Vitara",
+        "XL6",
+        "Jimny",
+        "Invicto",
+        "e VITARA"
+      ],
+      "showrooms": [
+        "Jayabheri ARENA — Gachibowli",
+        "Jayabheri NEXA — Gachibowli",
+        "Jayabheri NEXA — Miyapur",
+        "Popular RKS ARENA — Somajiguda",
+        "Popular RKS ARENA — Tadbund",
+        "Popular RKS ARENA — Malakpet",
+        "Popular RKS ARENA — Kushaiguda",
+        "Popular RKS ARENA — Shamirpet",
+        "Popular RKS ARENA — Narsingi",
+        "Varun NEXA — Begumpet",
+        "Varun NEXA — Banjara Hills",
+        "Varun ARENA — Banjara Hills",
+        "Varun ARENA — Nanakramguda",
+        "Varun ARENA — Begumpet",
+        "Kalyani ARENA — Ramachandrapuram"
+      ],
+      "sources": [
+        "https://www.arenaofgachibowli.com/",
+        "https://www.nexaofgachibowli.com/",
+        "https://www.nexaofmiyapur.com/",
+        "https://www.marutisuzuki.com/arena",
+        "https://www.nexaexperience.com/",
+        "https://www.saboomaruti.in/showrooms/",
+        "https://www.nexaofbegumpet.com/",
+        "https://www.varunmaruti.com/outlet/nexa-showroom-banjarahills",
+        "https://www.varunmaruti.com/outlet/showroom-banjarahills-hyderabad",
+        "https://www.varunmaruti.com/outlet/showroom-nanakramguda-hyderabad",
+        "https://www.arenaofbegumpet.com/contact-us",
+        "https://www.arenaofrcpuram.com/"
+      ]
+    },
+    "Hyundai": {
+      "models": [
+        "Grand i10 Nios",
+        "i20",
+        "i20 N Line",
+        "Aura",
+        "Verna",
+        "Exter",
+        "Venue",
+        "Venue N Line",
+        "Creta",
+        "Creta N Line",
+        "Creta Electric",
+        "Alcazar",
+        "IONIQ 5",
+        "Bayon",
+        "Prime-HB",
+        "Prime-SD"
+      ],
+      "showrooms": [
+        "JSP Hyundai — Jubilee Hills",
+        "JSP Hyundai — Banjara Hills",
+        "Dwaraka Hyundai — Hyderabad"
+      ],
+      "sources": [
+        "https://jsp.hyundaimotor.in/",
+        "https://dwaraka.hyundaimotor.in/",
+        "https://www.hyundai.com/in/en",
+        "https://www.jsphyundai.com/locate-us/",
+        "https://jspgroup.in/locations/"
+      ]
+    },
+    "Tata": {
+      "models": [
+        "Tiago",
+        "Altroz",
+        "Punch",
+        "Nexon",
+        "Curvv",
+        "Sierra",
+        "Harrier",
+        "Safari",
+        "Tiago.ev",
+        "Tigor.ev",
+        "Punch.ev",
+        "Nexon.ev",
+        "Curvv.ev",
+        "Harrier.ev",
+        "Sierra.ev"
+      ],
+      "showrooms": [
+        "Jasper Industries — Chandrayangutta",
+        "Tejaswi — Tolichowki",
+        "Select Cars — Begumpet",
+        "Orange Auto — Erragadda",
+        "Orange Auto — Attapur",
+        "Malik Autoworld — Himayatnagar",
+        "Venkataramana Motors — Road No. 1",
+        "Prathammalik Auto Matrix — Banjara Hills",
+        "Select Cars — Nagole Colony",
+        "Malik Autoworld — Malakpet"
+      ],
+      "sources": [
+        "https://dealer-locator.cars.tatamotors.com/?city=hyderabad&state=telangana",
+        "https://tata.cars/",
+        "https://dealer-locator.cars.tatamotors.com/?city=hyderabad&page=2&state=telangana",
+        "https://dealer-locator.cars.tatamotors.com/?city=hyderabad&page=3&state=telangana",
+        "https://ev.tatamotors.com/product-compare.html"
+      ]
+    },
+    "Mahindra": {
+      "models": [
+        "XUV 3XO",
+        "XUV 3XO EV",
+        "XUV 7XO",
+        "XUV 400",
+        "Thar",
+        "Thar Roxx",
+        "Scorpio-N",
+        "Scorpio Classic",
+        "Bolero",
+        "Bolero Neo",
+        "Bolero Neo Plus",
+        "Marazzo",
+        "BE 6 SPORTEQ",
+        "XEV 9e",
+        "XEV 9S"
+      ],
+      "showrooms": [
+        "Automotive Manufacturers — Rashtrapati Road",
+        "Automotive Manufacturers — Punjagutta",
+        "Automotive Manufacturers — Nanakramguda",
+        "Automotive Manufacturers — Shaikpet",
+        "VVC Motors — Sanath Nagar",
+        "Neon Motors — Kukatpally",
+        "VVC Motors — Basheer Bagh",
+        "Automotive Manufacturers — Jubilee Hills",
+        "VVC Motors — Malakpet",
+        "VVC Motors — Gopanapally",
+        "VVC Motors — Attapur",
+        "Neon Motors — Chanda Nagar",
+        "Neon Motors — Mohan Reddy Nagar",
+        "Neon Motors — Suraram"
+      ],
+      "sources": [
+        "https://dealers-auto.mahindra.com/location/telangana/hyderabad",
+        "https://dealers-auto.mahindra.com/location/telangana/hyderabad?page=2",
+        "https://dealers-auto.mahindra.com/location/telangana/hyderabad?page=3",
+        "https://www.mahindraelectricsuv.com/"
+      ]
+    },
+    "Kia": {
+      "models": [
+        "Seltos",
+        "Sonet",
+        "Syros",
+        "Carens",
+        "Carens Clavis",
+        "Carens Clavis EV",
+        "Carnival",
+        "EV6",
+        "EV9"
+      ],
+      "showrooms": [
+        "Automotive Kia — Kushaiguda",
+        "Automotive Kia — Secunderabad (SD Road)",
+        "Automotive Kia — HITEC City",
+        "Automotive Kia — Nagole",
+        "Automotive Kia — RC Puram",
+        "CAR KIA — Jubilee Hills"
+      ],
+      "sources": [
+        "https://www.automotivekia.in/locations/",
+        "https://www.carkia.in/",
+        "https://www.kia.com/in/home.html"
+      ]
+    },
+    "Toyota": {
+      "models": [
+        "Glanza",
+        "Urban Cruiser Taisor",
+        "Urban Cruiser Hyryder",
+        "Urban Cruiser Ebella",
+        "Rumion",
+        "Innova Crysta",
+        "Innova Hycross",
+        "Hilux",
+        "Fortuner",
+        "Legender",
+        "Camry",
+        "Vellfire",
+        "Land Cruiser 300"
+      ],
+      "showrooms": [
+        "Harsha Toyota — Kothaguda",
+        "Harsha Toyota — Hayathnagar"
+      ],
+      "sources": [
+        "https://harshatoyota.co.in/contact-us/",
+        "https://harshatoyota.co.in/hayathnagar-hyderabad-showroom-service-center/",
+        "https://www.toyotabharat.com/"
+      ]
+    },
+    "Honda": {
+      "models": [
+        "City",
+        "Amaze",
+        "Amaze 2nd Gen",
+        "Elevate",
+        "ZR-V"
+      ],
+      "showrooms": [
+        "Sundaram Honda — MG Road, Ranigunj",
+        "Metro Honda — Bowenpally"
+      ],
+      "sources": [
+        "https://dealer.hondacarindia.com/?state=telangana",
+        "https://www.hondacarindia.com/"
+      ]
+    },
+    "Škoda": {
+      "models": [
+        "Kylaq",
+        "Slavia",
+        "Kushaq",
+        "Kodiaq",
+        "Octavia RS",
+        "Superb"
+      ],
+      "showrooms": [
+        "Mahavir Škoda — Jubilee Hills"
+      ],
+      "sources": [
+        "https://dealers.skoda-auto.co.in/location/telangana/hyderabad",
+        "https://www.skoda-auto.co.in/"
+      ]
+    },
+    "Volkswagen": {
+      "models": [
+        "Taigun",
+        "Virtus",
+        "Tiguan R-Line",
+        "Tayron",
+        "Golf GTI"
+      ],
+      "showrooms": [
+        "PPS Volkswagen — Kukatpally",
+        "PPS Volkswagen — Gachibowli",
+        "PPS Volkswagen — Kompally",
+        "PPS Volkswagen — Neredmet",
+        "PPS Volkswagen — SP Road",
+        "PPS Volkswagen — Banjara Hills",
+        "PPS Volkswagen — HITEC City"
+      ],
+      "sources": [
+        "https://ppsmotors.in/volkswagen-locations/",
+        "https://www.volkswagen.co.in/en.html"
+      ]
+    },
+    "MG": {
+      "models": [
+        "Windsor EV",
+        "Windsor EV Pro",
+        "Comet EV",
+        "ZS EV",
+        "Astor",
+        "Hector",
+        "Majestor"
+      ],
+      "showrooms": [
+        "Vibrant — Rani Gunj",
+        "Raam4Wheeler — Banjara Hills",
+        "Raam4Wheelers — Gachibowli",
+        "Raam4Wheeler — Kondapur",
+        "PPS Motor — Saroornagar"
+      ],
+      "sources": [
+        "https://dealers.mgmotor.co.in/location/telangana/hyderabad",
+        "https://www.mgmotor.co.in/"
+      ]
+    },
+    "Renault": {
+      "models": [
+        "Kwid",
+        "Triber",
+        "Kiger",
+        "Duster",
+        "Duster E-Tech"
+      ],
+      "showrooms": [
+        "PPS Renault — LB Nagar",
+        "PPS Renault — Kukatpally"
+      ],
+      "sources": [
+        "https://ppsrenault.com/hyderabad/",
+        "https://www.renault.co.in/"
+      ]
+    },
+    "Nissan": {
+      "models": [
+        "Magnite",
+        "Gravite",
+        "Tekton",
+        "X-Trail"
+      ],
+      "showrooms": [
+        "Lakshmi Nissan — Nagole",
+        "Vibrant Nissan — Miyapur",
+        "Vibrant Nissan — Gachibowli",
+        "Vibrant Nissan — Bharat Nagar Bridge"
+      ],
+      "sources": [
+        "https://dealers.nissan.in/",
+        "https://www.nissan.in/"
+      ]
+    },
+    "BMW": {
+      "models": [
+        "2 Series Gran Coupé",
+        "3 Series Long Wheelbase",
+        "5 Series Long Wheelbase",
+        "7 Series",
+        "M2",
+        "M340i",
+        "M4",
+        "M5",
+        "X1",
+        "X3",
+        "X5",
+        "X7",
+        "iX1",
+        "i5",
+        "i7"
+      ],
+      "showrooms": [
+        "Krishna Automotive — Hyderabad"
+      ],
+      "sources": [
+        "https://www.bmw-krishnaautomotive.in/",
+        "https://www.bmw-krishnaautomotive.in/find-us"
+      ]
+    },
+    "Audi": {
+      "models": [
+        "A4",
+        "A6",
+        "Q3",
+        "Q3 Sportback",
+        "Q5",
+        "Q7",
+        "Q8"
+      ],
+      "showrooms": [
+        "Audi Hyderabad — Madhapur",
+        "Audi Hyderabad Central"
+      ],
+      "sources": [
+        "https://hyderabad.myaudi.in/en",
+        "https://hyderabadcentral.myaudi.in/",
+        "https://www.audi.in/en/models/"
+      ]
+    },
+    "Mercedes-Benz": {
+      "models": [
+        "A-Class Limousine",
+        "C-Class",
+        "E-Class",
+        "S-Class",
+        "GLA",
+        "GLB",
+        "GLC",
+        "GLE",
+        "GLS",
+        "G-Class",
+        "EQA",
+        "EQB",
+        "EQE SUV",
+        "EQS"
+      ],
+      "showrooms": [
+        "Silver Star — Somajiguda",
+        "Mahavir Motors — Madhapur"
+      ],
+      "sources": [
+        "https://www.silverstar.mercedes-benz.co.in/",
+        "https://www.mahavirmotors.mercedes-benz.co.in/",
+        "https://www.mercedes-benz.co.in/passengercars/models.html"
+      ]
+    }
+  }
+}
